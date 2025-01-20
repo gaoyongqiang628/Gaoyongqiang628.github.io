@@ -1,13 +1,7 @@
-- National Scholarship of Graduate Student, 2024.
+- PI, National Natural Science Foundation of China, 2024 ~ 2027, Grant No. 62362054. 
 
-- First-prize Scholarship of CUMT, 2024.
+- PI, National Natural Science Foundation of China, 2017 ~ 2020, Grant No. 61662052. 
 
-- First-prize Scholarship of CUMT, 2023.
+- PI, Natural  Science Foundation of Inner  Mongolia  Autonomous  Region, 2021 ~ 2023, Grant No. 2021MS06002. 
 
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- PI, Natural  Science Foundation of Inner  Mongolia  Autonomous  Region, 2015 ~ 2017, Grant No. 2015BS0602. 
