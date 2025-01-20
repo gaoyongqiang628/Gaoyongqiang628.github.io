@@ -1,6 +1,4 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/gaoyongqiang628)
+[![gaoyongqiang628](https://img.shields.io/badge/gaoyongqiang628-github-blue?logo=github)](https://github.com/gaoyongqiang628)
 
 He is currently a professor with the College of Computer Science, Inner Mongolia University, China.
 
